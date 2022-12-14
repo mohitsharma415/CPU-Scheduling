@@ -54,7 +54,7 @@ else{
 			{
 			printf(" %d ", i);		
 			}
-			//exit(0);
+			
 }
 
 
